@@ -7,7 +7,7 @@ Im Ordner Models werden die drei Modelle als einzelne Datei abgespeichert. Dadur
 Die zwei Jupyter Notebooks haben wir verwendet, um die Bilder für unsere Präsentation zu besorgen.
 
 Bevor man den Code selbst ausführen will, müssen einige Anpassungen gemacht werden. 
-Es gibt mehrmals in den Datein die Pfade für das Aufrufen der Datein. 
+Es gibt mehrmals in den Datein die Pfade für das Aufrufen der Wav-Files. 
 Ganz unten in dem Code, findet man Vereinfachungen für Eingaben durch das Package "Argparse". Dort sollte man seine Anpassungen eingeben und die werden so im gesamten Code angepasst. 
 
 Ablauf vom Abrufen der einzelnen "[].py" Datein zum selbst ausprobieren: 
